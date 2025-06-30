@@ -80,14 +80,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshkaldhone&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkaldhone&layout=compact&theme=radical)
 ![Streak Stats](https://streak-stats.demolab.com/?user=maheshkaldhone&theme=radical)
-<!-- GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=maheshkaldhone&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Contribution Graph -->
-[![Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maheshkaldhone&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Detailed Metrics -->
-![Metrics](https://raw.githubusercontent.com/maheshkaldhone/maheshkaldhone/main/github-metrics.svg)
 
 ---
 
