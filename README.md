@@ -1,76 +1,97 @@
-<h1 align="center">Hi there 👋, I'm **Mahesh Kaldhone**</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maheshkaldhone&style=flat-square&color=blue" alt="Profile views" />
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahesh-kaldhone"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:maheshkaldhone.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://maheshkaldhone.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=About.me&logoColor=white"></a>
-</p>
+# Hi there 👋, I'm **Mahesh Kaldhone**
+
+**🚀 Cloud & DevOps Engineer | ☁️ AWS Certified | ⚙️ CI/CD & Automation Enthusiast**
+
+![Profile views](https://komarev.com/ghpvc/?username=maheshkaldhone&style=flat-square&color=0abde3)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshkaldhone.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-kaldhone)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white)](https://maheshkaldhone.com)
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=500&lines=Cloud+%26+DevOps+Engineer;Terraform+·+AWS+·+Kubernetes;CI%2FCD+·+Docker+·+Monitoring)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00ADB5&width=600&center=true&lines=Hi+I'm+Mahesh+Kaldhone+👋;Cloud+%26+DevOps+Engineer+☁️;Terraform+·+Kubernetes+·+AWS+·+Docker;CI%2FCD+Pipelines+%7C+Monitoring+%7C+Automation)](https://git.io/typing-svg)
 
 ---
 
-## 💼 Profile
- Cloud & DevOps Engineer expertise in designing scalable, secure cloud infrastructure; automating pipelines; and managing system operations. Skilled in cloud services, server security, container orchestration, and proactive monitoring. Proven track record in cost optimization, task automation, and enhancing system resilience.
+## 💼 About Me
+
+🎯 Passionate Cloud & DevOps Engineer with 3+ years of experience automating infrastructure and delivery pipelines. I enjoy solving complex deployment challenges and building resilient cloud systems.
+
+- 🔭 Working on multi-region AWS deployments and cloud cost optimization
+- 🛠️ Building CI/CD pipelines using Jenkins, AWS native tools & Bitbucket
+- 🌱 Learning advanced Kubernetes patterns and service mesh
+- 🧠 Favorite tools: Terraform, Docker, Python (Boto3), Prometheus & Grafana
 
 ---
 
 ## 💻 Skills
 
-- **Cloud & Containerization:** AWS (VPC, EC2, Lambda, RDS, S3, ECS, CloudFront, WAF), Terraform, CloudFormation, Kubernetes, Docker  
-- **CI/CD & Automation:** Git, Bitbucket, Jenkins, AWS CodeBuild/Deploy/Pipeline, Bitbucket Pipelines, Ansible  
-- **Scripting & DevOps:** Python (Boto3), Bash scripting  
-- **Monitoring & Observability:** Prometheus, Grafana, AWS CloudWatch, New Relic, Nagios  
-- **DB Management:** MySQL, MongoDB, MariaDB  
-- **Collaboration & Task Tracking:** JIRA, Asana  
+### ☁️ Cloud & Containerization
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
 
----
+### ⚙️ CI/CD & Automation
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-## 🛠️ Professional Experience
+### 🧪 Scripting & DevOps
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### **DevOps Engineer** 
-- Designed secure, scalable AWS infrastructure using VPC, EC2, RDS, Lambda, S3, WAF, IAM + CloudFormation  
-- Administered Linux servers: patching, monitoring, log management  
-- Optimized Apache for high availability  
-- Automated CI/CD with AWS CodeBuild/Deploy/Pipeline, Bitbucket Pipelines & Jenkins  
-- Integrated SonarQube for static analysis to reduce vulnerabilities  
-- Developed monitoring dashboards & custom alerts via CloudWatch, Prometheus, Grafana  
-- Automated backups & tasks using Bash and Python/Boto3  
-- Orchestrated Docker + Kubernetes deployments for resilient microservices  
-- Implemented WAF and Cloudflare for application security  
-- Managed databases (MySQL, MongoDB, MariaDB) including backups & replication  
-- Reduced AWS costs by 15% through rightsizing and storage optimization  
-- Created comprehensive docs for infrastructure and CI/CD processes  
-- Optimized Dockerfiles and deployed containers on AWS ECS  
-- Configured IAM roles/policies for secure ECS access  
-- Automated scripts for logs and health checks  
-- Monitored performance with CloudWatch and configured alerts  
-- Documented container and ECS deployment pipelines  
+### 📊 Monitoring & Observability
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat&logo=new-relic&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-222222?style=flat&logo=nagios&logoColor=white)
 
----
+### 🛢️ Database Management
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-## 📚 Certifications & Education
-
-- **AWS Certified Solutions Architect – Associate**  
- 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshkaldhone&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkaldhone&layout=compact&theme=radical)  
-![Streak Stats](https://streak-stats.demolab.com/?user=maheshkaldhone)
+### 🧠 Collaboration & Tracking
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)
 
 ---
 
 ## 🔧 Featured Projects
 
-- **terraform-multi-region-vpc** – Terraform module for multi-region AWS VPCs with secure subnet architecture  
-- **ci-cd-k8s-helm** – Full CI/CD pipeline using GitHub Actions + Helm to deploy microservices to EKS  
-- **monitoring-stack** – Terraform-provisioned Prometheus & Grafana stack with custom alerting dashboards, CloudWatch and new relic
+- **terraform-multi-region-vpc** – Secure VPC infra module across AWS regions  
+- **ci-cd-k8s-helm** – CI/CD pipeline using GitHub Actions + Helm for EKS deployments  
+- **monitoring-stack** – Nagios, New-Relic and AWS CloudWatch
 
 ---
+
+## 📚 Certifications & Education
+
+- 🏅 **AWS Certified Solutions Architect – Associate**  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshkaldhone&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkaldhone&layout=compact&theme=radical)
+![Streak Stats](https://streak-stats.demolab.com/?user=maheshkaldhone&theme=radical)
+<!-- GitHub Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=maheshkaldhone&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Contribution Graph -->
+[![Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maheshkaldhone&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Detailed Metrics -->
+![Metrics](https://raw.githubusercontent.com/maheshkaldhone/maheshkaldhone/main/github-metrics.svg)
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <em>“Automate everything. Break nothing. Monitor all.”</em>
+</div>
