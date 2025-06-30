@@ -16,7 +16,7 @@
 
 ## 💼 About Me
 
-🎯 Passionate Cloud & DevOps Engineer with 3+ years of experience automating infrastructure and delivery pipelines. I enjoy solving complex deployment challenges and building resilient cloud systems.
+🎯 Passionate Cloud & DevOps Engineer, automating infrastructure and delivery pipelines. I enjoy solving complex deployment challenges and building resilient cloud systems.
 
 - 🔭 Working on multi-region AWS deployments and cloud cost optimization  
 - 🛠️ Building CI/CD pipelines using Jenkins, AWS native tools & Bitbucket  
